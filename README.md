@@ -15,7 +15,9 @@ Starting Out in Chrome:
 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>T</kbd>
 Create a chroot
 
-`sudo sh ~/Downloads/crouton -t x11,gtk-extra,gnome,gnome-desktop,xorg,xiwi,keyboard`
+`sudo sh ~/Downloads/crouton -t x11,gtk-extra,gnome,keyboard`
+
+More extra: `sudo sh ~/Downloads/crouton -t x11,gtk-extra,gnome,gnome-desktop,xorg,xiwi,keyboard`
 
 Start the chroot
 
