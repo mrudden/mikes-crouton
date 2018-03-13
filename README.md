@@ -7,3 +7,4 @@ https://github.com/dnschneid/crouton/wiki/
 https://github.com/dnschneid/crouton/wiki/Crouton-Command-Cheat-Sheet
 
 Starting Out:
+sudo sh ~/Downloads/crouton -t gnome,xiwi,x11,gtk-extra
