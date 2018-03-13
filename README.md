@@ -24,3 +24,5 @@ Starting Out in Ubuntu:
 `sudo apt-get install python3`
 
 `sudo apt-get install pip3`
+
+Installing a .deb (like vscode or atom): `sudo dpkg -i PACKAGE_NAME`
